@@ -14,5 +14,5 @@ dependencies {
     ***
     implementation project(":common")
 }
-4. Sync gradle
 ```
+4. Sync gradle

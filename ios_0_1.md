@@ -1,4 +1,5 @@
 1. Navigate to your common module folder and run command **./gradlew :common:packForXcode**
+2. Clone project **https://github.com/ustadenis/MultiplatformIOS**
 2. Open target settings of your ios project
 3. Click + of **Embedded Binaries** section
 4. Click **Add Other...**

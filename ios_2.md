@@ -16,3 +16,4 @@ override func viewDidAppear(_ animated: Bool) {
   title = CommonKt.printString()
 }
 ```
+6. Run application

@@ -8,3 +8,11 @@ rootProject.name='MultiplatformApp'
 project(':common').projectDir = new File(settingsDir, 'relative path to common module')
 enableFeaturePreview('GRADLE_METADATA')
 ```
+3. Add implemetation in app **build.gradle**
+```groovy
+dependencies {
+    ***
+    implementation project(":common")
+}
+4. Sync gradle
+```

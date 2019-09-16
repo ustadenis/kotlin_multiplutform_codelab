@@ -17,3 +17,5 @@ override func viewDidAppear(_ animated: Bool) {
 }
 ```
 6. Run application
+
+[Next](https://github.com/ustadenis/kotlin_multiplutform_codelab/blob/master/2_0.md)

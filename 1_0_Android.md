@@ -16,3 +16,5 @@ dependencies {
 }
 ```
 4. Sync gradle
+
+[Next](https://github.com/ustadenis/kotlin_multiplutform_codelab/blob/master/1_1_Android.md)

@@ -8,3 +8,5 @@
 8. Open **Build Settings** of your project
 9. Find **Framework Search Paths** and put relative path to **build/xcode-frameworks** of your project
 10. Try to build the application
+
+[Next](https://github.com/ustadenis/kotlin_multiplutform_codelab/blob/master/1_1_IOS.md)

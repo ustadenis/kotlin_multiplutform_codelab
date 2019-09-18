@@ -1,10 +1,7 @@
 1. Open AndroidApp project in AndroidStudio.
 2. Add the following code to **settings.gradle**
 ```groovy
-include ':app'
 include ':common'
-rootProject.name='MultiplatformApp'
-
 project(':common').projectDir = new File(settingsDir, '../CommonModule/common')
 enableFeaturePreview('GRADLE_METADATA')
 ```

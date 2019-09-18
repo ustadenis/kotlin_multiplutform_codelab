@@ -1,5 +1,5 @@
 1. Navigate to your common module folder and run command **./gradlew :common:packForXcode** (if you don't have environment variable JAVA_HOME use command **export JAVA_HOME=/Applications/Android\ Studio.app/Contents/jre/jdk/Contents/Home/**)
-2. Open ios project **IOSApp**.
+2. Open ios project **IOSApp** with XCode.
 3. Open target settings of your ios project.
 4. Click + of **Embedded Binaries** section.
 5. Click **Add Other...**.

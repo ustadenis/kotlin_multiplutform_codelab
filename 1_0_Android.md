@@ -5,7 +5,7 @@ include ':app'
 include ':common'
 rootProject.name='MultiplatformApp'
 
-project(':common').projectDir = new File(settingsDir, 'relative path to common module')
+project(':common').projectDir = new File(settingsDir, '../CommonModule/common')
 enableFeaturePreview('GRADLE_METADATA')
 ```
 3. Add implemetation in app **build.gradle**
